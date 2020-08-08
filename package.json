@@ -1,0 +1,22 @@
+{
+  "name": "mzs-number-formatter",
+  "version": "1.0.0",
+  "description": "number formatter",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrzacsmith/mzs-number-formatter.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Mr Zac Smith <zrs3141592@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrzacsmith/mzs-number-formatter/issues"
+  },
+  "homepage": "https://github.com/mrzacsmith/mzs-number-formatter#readme"
+}
